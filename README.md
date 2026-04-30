@@ -17,3 +17,7 @@ Direktori saluran, grup, dan bot Telegram bahasa Indonesia.
 
 ## Bot Telegram
 
+| Nama | Deskripsi | Telegram |
+|------|-----------|----------|
+| Cyber Collector | Bot Telegram gratis untuk mengunduh video TikTok (tanpa watermark), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook. Tanpa daftar, tanpa iklan. [Website](https://cybercollector.hitkey.io) | [Buka](https://t.me/cybercollectorbot) |
+
