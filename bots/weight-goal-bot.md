@@ -1,12 +1,12 @@
 # Weight Goal Bot
 
-Bot grup sumber terbuka untuk melacak target penurunan berat badan. Tersedia dalam bahasa Inggris, Rusia, dan Mandarin.
+Bot grup sumber terbuka yang menemani langkahmu menuju target berat. Bahasa Indonesianya terasa alami dan tersedia dalam sembilan bahasa.
 
 ## Informasi dasar
 
 - **Nama:** Weight Goal Bot
 - **Jenis:** Bot
-- **Bahasa:** Inggris, Rusia, dan Mandarin
+- **Bahasa:** Indonesia, Inggris, Rusia, Mandarin, Spanyol, Portugis, Jerman, Prancis, dan Jepang
 - **Telegram:** https://t.me/my_weight_goal_bot
 - **Kode sumber:** https://github.com/IgorShadurin/weight-telegram-bot
 - **Lisensi:** Apache-2.0

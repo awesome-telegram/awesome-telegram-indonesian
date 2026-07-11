@@ -19,4 +19,4 @@ Direktori saluran, grup, dan bot Telegram bahasa Indonesia.
 
 | Nama | Deskripsi | Telegram | Detail |
 |------|-----------|----------|--------|
-| Weight Goal Bot | Target berat mingguan dalam grup dengan foto, grafik, pengingat, dan pencapaian; tersedia dalam bahasa Inggris, Rusia, dan Mandarin | [Buka](https://t.me/my_weight_goal_bot) | [Detail](bots/weight-goal-bot.md) |
+| Weight Goal Bot | Target berat mingguan dalam grup dengan foto, grafik, pengingat, dan 53 pencapaian; tersedia dalam bahasa Indonesia dan delapan bahasa lain | [Buka](https://t.me/my_weight_goal_bot) | [Detail](bots/weight-goal-bot.md) |
